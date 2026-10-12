@@ -1,0 +1,6 @@
+streamlit
+yfinance
+backtesting
+matplotlib
+pandas
+numpy
